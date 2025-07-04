@@ -1,12 +1,13 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
   devtools: { enabled: true },
-  ssr: true,
+  ssr: false,
   nitro: {
     preset: 'static'
   },
 
   app: {
+    baseURL: '/',
     head: {
       title: 'Johan Toni Wijaya',
       meta: [
@@ -14,7 +15,11 @@ export default defineNuxtConfig({
       ]
     }
   },
-  
+
+  imports: {
+    dirs: ['components', 'composables'],
+  },
+
   modules: [
     '@nuxt/ui',
     '@nuxt/eslint',
