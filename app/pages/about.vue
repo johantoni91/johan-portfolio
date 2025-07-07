@@ -21,18 +21,19 @@
             <small class="text-center text-gray-400">As a fullstack engineer i committed to building custom web
                 solutions
                 that drive bussiness to success.</small>
-            <div
-                class="flex flex-wrap md:flex-nowrap gap-3 justify-evenly items-center md:w-[80vw] w-full md:px-3 px-0">
+            <div class="flex flex-wrap md:flex-nowrap gap-3 justify-between md:w-[80vw] w-full md:px-3 px-0">
                 <img src="/assets/about.jpg" width="300" height="300" class="rounded-lg shadow-md mx-auto"
                     alt="aboutme" />
-                <div class="text-justify flex flex-col gap-3">
-                    <small>Specialize in creating web solutions that help bussiness to achieve
-                        client goals. Let me introduce myself, Johan Toni Wijaya 25 years
-                        old expert at building website use any framework as request,
-                        security, complexity, or maybe realtime consume API.</small>
-                    <small>My services is to provide my client website solutions that to
-                        achieve their goals. Using any tools for best experience
-                        result</small>
+                <div class="text-justify flex flex-col gap-3 lg:w-1/2 w-full">
+                    <p>Resourceful and detail-oriented Full-Stack Developer with 2 years of experience in developing
+                        robust and scalable web
+                        applications. Proficient in both front-end and back-end technologies, including JavaScript,
+                        Laravel, React, Vue, Next.js,
+                        Nuxt, Python, and SQL. Adept at designing intuitive user interfaces and building efficient APIs,
+                        with a strong foundation in
+                        modern software development practices. Passionate about
+                        continuous learning and consistently stay updated with the latest technologies to deliver
+                        high-quality digital solutions.</p>
                 </div>
             </div>
         </div>
@@ -56,7 +57,6 @@
                 </div>
             </div>
         </div>
-        \
 
         <div id="skills" data-aos="fade-down"
             class="h-[60dvh] flex flex-col justify-center items-center gap-5 transition-opacity duration-700 p-5 mb-5">
