@@ -28,7 +28,7 @@ export const Identities = () => [
     },
     {
         label: "Age",
-        desc: "24 Years Old",
+        desc: "25 Years Old",
     },
     {
         label: "Address",
@@ -49,19 +49,19 @@ export const Experiences = () => [
         icon: "material-symbols:school",
         img: [
             {
-                src: "https://picsum.photos/640/640?random=1",
+                src: "https://picsum.photos/400/400?random=1",
             },
             {
-                src: "https://picsum.photos/640/640?random=2",
+                src: "https://picsum.photos/400/400?random=2",
             },
             {
-                src: "https://picsum.photos/640/640?random=3",
+                src: "https://picsum.photos/400/400?random=3",
             },
             {
-                src: "https://picsum.photos/640/640?random=4",
+                src: "https://picsum.photos/400/400?random=4",
             },
             {
-                src: "https://picsum.photos/640/640?random=5",
+                src: "https://picsum.photos/400/400?random=5",
             },
         ]
     },
@@ -73,19 +73,13 @@ export const Experiences = () => [
         icon: "material-symbols:work-outline",
         img: [
             {
-                src: "https://picsum.photos/640/640?random=6",
+                src: "https://picsum.photos/400/400?random=1",
             },
             {
-                src: "https://picsum.photos/640/640?random=7",
+                src: "https://picsum.photos/400/400?random=2",
             },
             {
-                src: "https://picsum.photos/640/640?random=8",
-            },
-            {
-                src: "https://picsum.photos/640/640?random=9",
-            },
-            {
-                src: "https://picsum.photos/640/640?random=10",
+                src: "https://picsum.photos/400/400?random=4",
             },
         ]
     },
@@ -97,19 +91,13 @@ export const Experiences = () => [
         icon: "material-symbols:work-outline",
         img: [
             {
-                src: "https://picsum.photos/640/640?random=11",
+                src: "https://picsum.photos/400/400?random=11",
             },
             {
-                src: "https://picsum.photos/640/640?random=12",
+                src: "https://picsum.photos/400/400?random=12",
             },
             {
-                src: "https://picsum.photos/640/640?random=13",
-            },
-            {
-                src: "https://picsum.photos/640/640?random=14",
-            },
-            {
-                src: "https://picsum.photos/640/640?random=15",
+                src: "https://picsum.photos/400/400?random=13",
             },
         ]
     },
@@ -121,20 +109,14 @@ export const Experiences = () => [
         icon: "material-symbols:work-outline",
         img: [
             {
-                src: "https://picsum.photos/640/640?random=16",
+                src: "https://picsum.photos/400/400?random=16",
             },
             {
-                src: "https://picsum.photos/640/640?random=17",
+                src: "https://picsum.photos/400/400?random=17",
             },
             {
-                src: "https://picsum.photos/640/640?random=18",
-            },
-            {
-                src: "https://picsum.photos/640/640?random=19",
-            },
-            {
-                src: "https://picsum.photos/640/640?random=20",
-            },
+                src: "https://picsum.photos/400/400?random=18",
+            }
         ]
     }
 ]
