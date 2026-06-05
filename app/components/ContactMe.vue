@@ -48,7 +48,7 @@
                             <Icon name="logos:whatsapp-icon" class="w-12 h-12 hover:animate-pulse" />
                         </NuxtLink>
                         <USeparator orientation="vertical" class="h-12" size="xl" />
-                        <NuxtLink to="https://ig.me/m/ng.johan.w" target="_blank">
+                        <NuxtLink to="https://ig.me/ng.johan.w" target="_blank">
                             <Icon name="skill-icons:instagram" class="w-12 h-12 hover:animate-pulse" />
                         </NuxtLink>
                         <USeparator orientation="vertical" class="h-12" size="xl" />
